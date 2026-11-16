@@ -1,0 +1,6 @@
+{
+  "name": "Love School Hub",
+  "description": "Centralized, relationship-centered family and operations platform uniting Wix, Calendly, Gmail, Google Drive, Google Classroom, QuickBooks, Notion, and Meta Social for loveschoolu.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

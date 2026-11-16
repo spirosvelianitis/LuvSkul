@@ -1,0 +1,845 @@
+{
+  "families": [
+    {
+      "id": "fam-1",
+      "familyName": "Morales Family",
+      "parentNames": "Elena & Mateo Morales",
+      "email": "elena.morales@example.org",
+      "phone": "(512) 555-0148",
+      "childName": "Lucia Morales",
+      "childAge": "6 years",
+      "program": "Lower Elementary Explorers",
+      "stage": "Classroom Placement",
+      "warmthNote": "Lucia lights up around botanical sketching and outdoor storytelling. Mateo works remotely on Fridays and loves joining morning circle.",
+      "preferredContact": "Warm email summary on Thursday afternoons",
+      "assignedGuide": "Clara Vance (Director)",
+      "driveFolderUrl": "https://drive.google.com",
+      "classroomCohort": "Lower Elementary Explorers (Fall)",
+      "tuitionStatus": "Paid",
+      "nextStepLabel": "Send Week 1 welcome reflection",
+      "lastTouchAt": "2026-11-16T09:20:00Z",
+      "checklist": [
+        {
+          "id": "c1",
+          "label": "Enrollment Agreement Signed",
+          "completed": true,
+          "driveFileName": "Morales_Enrollment_2026.pdf",
+          "updatedAt": "Nov 10"
+        },
+        {
+          "id": "c2",
+          "label": "Child Learning & Care Profile",
+          "completed": true,
+          "driveFileName": "Lucia_Learning_Profile.docx",
+          "updatedAt": "Nov 11"
+        },
+        {
+          "id": "c3",
+          "label": "Immunization & Emergency Card",
+          "completed": true,
+          "driveFileName": "Morales_Health_Form.pdf",
+          "updatedAt": "Nov 12"
+        },
+        {
+          "id": "c4",
+          "label": "Tuition Autopay Confirmed",
+          "completed": true,
+          "driveFileName": "QuickBooks_Receipt_102.pdf",
+          "updatedAt": "Nov 13"
+        }
+      ],
+      "touchpoints": [
+        {
+          "id": "t1",
+          "date": "Nov 16, 9:20 AM",
+          "channel": "Classroom",
+          "summary": "Added Elena & Mateo as guardians in Lower Elementary Explorers.",
+          "author": "Clara Vance"
+        },
+        {
+          "id": "t2",
+          "date": "Nov 13, 2:10 PM",
+          "channel": "QuickBooks",
+          "summary": "November tuition invoice (#INV-2026-102) paid in full ($1,450.00).",
+          "author": "System Sync"
+        },
+        {
+          "id": "t3",
+          "date": "Nov 10, 11:00 AM",
+          "channel": "Drive",
+          "summary": "Created shared Morales Family Enrollment Folder in Google Drive.",
+          "author": "Clara Vance"
+        }
+      ]
+    },
+    {
+      "id": "fam-2",
+      "familyName": "Chen-Patel Family",
+      "parentNames": "Maya Chen & Dev Patel",
+      "email": "maya.chen@example.org",
+      "phone": "(512) 555-0193",
+      "childName": "Arjun Patel",
+      "childAge": "4.5 years",
+      "program": "Early Childhood Wonder",
+      "stage": "Drive Packet",
+      "warmthNote": "Arjun is gentle and observant; he asked three thoughtful questions about the classroom fern during their campus visit.",
+      "preferredContact": "Personal phone call or brief email",
+      "assignedGuide": "Hannah Brooks (Lead Guide)",
+      "driveFolderUrl": "https://drive.google.com",
+      "classroomCohort": "Early Childhood Wonder (Fall)",
+      "tuitionStatus": "Invoice Sent",
+      "nextStepLabel": "Follow up gently on Health Form",
+      "lastTouchAt": "2026-11-15T16:40:00Z",
+      "checklist": [
+        {
+          "id": "c1",
+          "label": "Enrollment Agreement Signed",
+          "completed": true,
+          "driveFileName": "ChenPatel_Enrollment_2026.pdf",
+          "updatedAt": "Nov 14"
+        },
+        {
+          "id": "c2",
+          "label": "Child Learning & Care Profile",
+          "completed": true,
+          "driveFileName": "Arjun_Care_Notes.docx",
+          "updatedAt": "Nov 15"
+        },
+        {
+          "id": "c3",
+          "label": "Immunization & Emergency Card",
+          "completed": false
+        },
+        {
+          "id": "c4",
+          "label": "Tuition Autopay Confirmed",
+          "completed": false
+        }
+      ],
+      "touchpoints": [
+        {
+          "id": "t4",
+          "date": "Nov 15, 4:40 PM",
+          "channel": "Email",
+          "summary": "Sent personalized post-tour reflection & Drive folder link.",
+          "author": "Clara Vance"
+        },
+        {
+          "id": "t5",
+          "date": "Nov 14, 10:30 AM",
+          "channel": "Calendly",
+          "summary": "Completed 45-minute Campus Visit & Family Tour.",
+          "author": "Hannah Brooks"
+        }
+      ]
+    },
+    {
+      "id": "fam-3",
+      "familyName": "Okafor Family",
+      "parentNames": "Nadia Okafor",
+      "email": "nadia.okafor@example.org",
+      "phone": "(512) 555-0174",
+      "childName": "Zion Okafor",
+      "childAge": "8 years",
+      "program": "Upper Studio Makers",
+      "stage": "QuickBooks Tuition",
+      "warmthNote": "Zion builds intricate cardboard bridges at home. Nadia is transferring mid-semester and appreciates transparent weekly communication.",
+      "preferredContact": "Email in the morning",
+      "assignedGuide": "Clara Vance (Director)",
+      "driveFolderUrl": "https://drive.google.com",
+      "classroomCohort": "Upper Studio Makers (Fall)",
+      "tuitionStatus": "Needs Gentle Follow-up",
+      "nextStepLabel": "Send warm tuition check-in note",
+      "lastTouchAt": "2026-11-14T13:15:00Z",
+      "checklist": [
+        {
+          "id": "c1",
+          "label": "Enrollment Agreement Signed",
+          "completed": true,
+          "driveFileName": "Okafor_Enrollment.pdf",
+          "updatedAt": "Nov 8"
+        },
+        {
+          "id": "c2",
+          "label": "Child Learning & Care Profile",
+          "completed": true,
+          "driveFileName": "Zion_Profile.docx",
+          "updatedAt": "Nov 9"
+        },
+        {
+          "id": "c3",
+          "label": "Immunization & Emergency Card",
+          "completed": true,
+          "driveFileName": "Okafor_Medical.pdf",
+          "updatedAt": "Nov 10"
+        },
+        {
+          "id": "c4",
+          "label": "Tuition Autopay Confirmed",
+          "completed": false
+        }
+      ],
+      "touchpoints": [
+        {
+          "id": "t6",
+          "date": "Nov 14, 1:15 PM",
+          "channel": "QuickBooks",
+          "summary": "Invoice #INV-2026-105 due in 2 days — queued gentle check-in.",
+          "author": "System Sync"
+        }
+      ]
+    },
+    {
+      "id": "fam-4",
+      "familyName": "Lindqvist Family",
+      "parentNames": "Freja & Jonas Lindqvist",
+      "email": "freja.lindqvist@example.org",
+      "phone": "(512) 555-0112",
+      "childName": "Soren Lindqvist",
+      "childAge": "5 years",
+      "program": "Early Childhood Wonder",
+      "stage": "Calendly Tour",
+      "warmthNote": "Discovered loveschoolu.com via Instagram reading corner post. Excited about slow-paced outdoor mornings.",
+      "preferredContact": "Email",
+      "assignedGuide": "Clara Vance (Director)",
+      "driveFolderUrl": "",
+      "classroomCohort": "Early Childhood Wonder (Fall)",
+      "tuitionStatus": "Scheduled",
+      "nextStepLabel": "Prepare campus welcome tea for Nov 18 tour",
+      "lastTouchAt": "2026-11-16T08:05:00Z",
+      "checklist": [
+        {
+          "id": "c1",
+          "label": "Enrollment Agreement Signed",
+          "completed": false
+        },
+        {
+          "id": "c2",
+          "label": "Child Learning & Care Profile",
+          "completed": false
+        },
+        {
+          "id": "c3",
+          "label": "Immunization & Emergency Card",
+          "completed": false
+        },
+        {
+          "id": "c4",
+          "label": "Tuition Autopay Confirmed",
+          "completed": false
+        }
+      ],
+      "touchpoints": [
+        {
+          "id": "t7",
+          "date": "Nov 16, 8:05 AM",
+          "channel": "Calendly",
+          "summary": "Booked Campus Visit & Family Tour for Nov 18 at 10:00 AM.",
+          "author": "Freja Lindqvist"
+        },
+        {
+          "id": "t8",
+          "date": "Nov 15, 7:30 PM",
+          "channel": "Wix",
+          "summary": "Submitted Admissions Inquiry via loveschoolu.com.",
+          "author": "Freja Lindqvist"
+        }
+      ]
+    },
+    {
+      "id": "fam-5",
+      "familyName": "Alvarez-Kim Family",
+      "parentNames": "Sofia Alvarez & Min-Jun Kim",
+      "email": "sofia.alvarez@example.org",
+      "phone": "(512) 555-0166",
+      "childName": "Mina Kim",
+      "childAge": "7 years",
+      "program": "Lower Elementary Explorers",
+      "stage": "Ongoing Care",
+      "warmthNote": "Enrolled since September. Sofia leads our parent garden morning once a month.",
+      "preferredContact": "Weekly Notion family digest",
+      "assignedGuide": "Hannah Brooks (Lead Guide)",
+      "driveFolderUrl": "https://drive.google.com",
+      "classroomCohort": "Lower Elementary Explorers (Fall)",
+      "tuitionStatus": "Paid",
+      "nextStepLabel": "Share Autumn Leaf Study guide",
+      "lastTouchAt": "2026-11-15T11:30:00Z",
+      "checklist": [
+        {
+          "id": "c1",
+          "label": "Enrollment Agreement Signed",
+          "completed": true,
+          "driveFileName": "AlvarezKim_Enrollment.pdf",
+          "updatedAt": "Aug 22"
+        },
+        {
+          "id": "c2",
+          "label": "Child Learning & Care Profile",
+          "completed": true,
+          "driveFileName": "Mina_Profile.docx",
+          "updatedAt": "Aug 24"
+        },
+        {
+          "id": "c3",
+          "label": "Immunization & Emergency Card",
+          "completed": true,
+          "driveFileName": "Mina_Health.pdf",
+          "updatedAt": "Aug 25"
+        },
+        {
+          "id": "c4",
+          "label": "Tuition Autopay Confirmed",
+          "completed": true,
+          "driveFileName": "QuickBooks_Autopay.pdf",
+          "updatedAt": "Aug 28"
+        }
+      ],
+      "touchpoints": [
+        {
+          "id": "t9",
+          "date": "Nov 15, 11:30 AM",
+          "channel": "Classroom",
+          "summary": "Shared botanical sketchbook reflection with family.",
+          "author": "Hannah Brooks"
+        }
+      ]
+    }
+  ],
+  "wixPages": [
+    {
+      "id": "wp-1",
+      "path": "/",
+      "title": "Home — Love School (loveschoolu.com)",
+      "headline": "A warm, relationship-centered learning community where every child is deeply known.",
+      "subheadline": "Small mixed-age studios, unhurried outdoor inquiry, and personal partnerships with families.",
+      "status": "Published",
+      "lastSyncedAt": "Nov 16, 10:15 AM",
+      "monthlyVisits": 1840
+    },
+    {
+      "id": "wp-2",
+      "path": "/admissions",
+      "title": "Admissions & Family Tours",
+      "headline": "Begin with a unhurried conversation and a walk through our sunlit studios.",
+      "subheadline": "Spring & Fall 2026 family visits open via Calendly.",
+      "status": "Published",
+      "lastSyncedAt": "Nov 15, 3:40 PM",
+      "monthlyVisits": 620
+    },
+    {
+      "id": "wp-3",
+      "path": "/curriculum",
+      "title": "Living Curriculum & Guides",
+      "headline": "Seasonal studies rooted in nature, craft, literacy, and joyful curiosity.",
+      "subheadline": "Weekly home connection guides synced directly from our educators’ Notion studio.",
+      "status": "Published",
+      "lastSyncedAt": "Nov 14, 1:10 PM",
+      "monthlyVisits": 490
+    },
+    {
+      "id": "wp-4",
+      "path": "/tuition",
+      "title": "Tuition & Family Stewardship",
+      "headline": "Transparent monthly stewardship with flexible family plans.",
+      "subheadline": "Simple, human-friendly billing powered by QuickBooks.",
+      "status": "Published",
+      "lastSyncedAt": "Nov 12, 9:00 AM",
+      "monthlyVisits": 315
+    }
+  ],
+  "wixLeads": [
+    {
+      "id": "wl-1",
+      "submittedAt": "Nov 16, 11:42 AM",
+      "parentName": "Rachel & Thomas Bennett",
+      "email": "rachel.bennett@example.org",
+      "childName": "Oliver Bennett",
+      "childAge": "5.5 years",
+      "programInterest": "Lower Elementary Explorers",
+      "personalStory": "We moved to the neighborhood last month and are looking for a gentle, warm school where Oliver can build confidence and spend time outdoors.",
+      "status": "New Inquiry"
+    },
+    {
+      "id": "wl-2",
+      "submittedAt": "Nov 16, 8:15 AM",
+      "parentName": "Samira Haddad",
+      "email": "samira.haddad@example.org",
+      "childName": "Layla Haddad",
+      "childAge": "4 years",
+      "programInterest": "Early Childhood Wonder",
+      "personalStory": "Layla adores storytelling and painting. We would love to schedule a morning visit to meet the teachers.",
+      "status": "New Inquiry"
+    },
+    {
+      "id": "wl-3",
+      "submittedAt": "Nov 15, 7:30 PM",
+      "parentName": "Freja & Jonas Lindqvist",
+      "email": "freja.lindqvist@example.org",
+      "childName": "Soren Lindqvist",
+      "childAge": "5 years",
+      "programInterest": "Early Childhood Wonder",
+      "personalStory": "Saw your cozy reading corner photo on Instagram and felt right at home.",
+      "status": "Converted"
+    }
+  ],
+  "calendlyBookingTypes": [
+    {
+      "id": "cb-1",
+      "name": "Warm Discovery Call",
+      "durationMinutes": 25,
+      "location": "Phone or Google Meet",
+      "description": "An unhurried first conversation with Director Clara Vance to hear about your child and share our philosophy.",
+      "bookingUrl": "https://calendly.com/loveschoolu/discovery-call",
+      "active": true
+    },
+    {
+      "id": "cb-2",
+      "name": "Campus Visit & Family Tour",
+      "durationMinutes": 45,
+      "location": "Love School Studio Campus",
+      "description": "Walk through our classrooms during morning work time, meet lead guides, and linger over herbal tea.",
+      "bookingUrl": "https://calendly.com/loveschoolu/campus-tour",
+      "active": true
+    },
+    {
+      "id": "cb-3",
+      "name": "Mid-Term Family Heart-to-Heart",
+      "durationMinutes": 30,
+      "location": "Studio Library or Google Meet",
+      "description": "Reflective check-in celebrating your child’s growth, social friendships, and upcoming home projects.",
+      "bookingUrl": "https://calendly.com/loveschoolu/family-checkin",
+      "active": true
+    }
+  ],
+  "calendlyEvents": [
+    {
+      "id": "ce-1",
+      "familyId": "fam-4",
+      "familyName": "Lindqvist Family (Freja & Soren)",
+      "parentEmail": "freja.lindqvist@example.org",
+      "eventType": "Campus Visit & Family Tour",
+      "scheduledFor": "Nov 18, 2026 · 10:00 AM",
+      "durationMinutes": 45,
+      "hostName": "Clara Vance",
+      "status": "Upcoming",
+      "prepNote": "Prepare early childhood sample portfolio & chamomile tea."
+    },
+    {
+      "id": "ce-2",
+      "familyId": "fam-1",
+      "familyName": "Morales Family (Elena & Mateo)",
+      "parentEmail": "elena.morales@example.org",
+      "eventType": "Mid-Term Family Heart-to-Heart",
+      "scheduledFor": "Nov 20, 2026 · 2:30 PM",
+      "durationMinutes": 30,
+      "hostName": "Hannah Brooks",
+      "status": "Upcoming",
+      "prepNote": "Bring Lucia’s autumn leaf watercolor journal to celebrate her focus."
+    },
+    {
+      "id": "ce-3",
+      "familyId": "fam-2",
+      "familyName": "Chen-Patel Family (Maya & Arjun)",
+      "parentEmail": "maya.chen@example.org",
+      "eventType": "Campus Visit & Family Tour",
+      "scheduledFor": "Nov 14, 2026 · 10:30 AM",
+      "durationMinutes": 45,
+      "hostName": "Hannah Brooks",
+      "status": "Completed",
+      "prepNote": "Arjun loved the classroom ferns; sent Drive folder right after."
+    }
+  ],
+  "emailDrafts": [
+    {
+      "id": "ed-1",
+      "familyId": "fam-2",
+      "recipientName": "Maya Chen & Dev Patel",
+      "recipientEmail": "maya.chen@example.org",
+      "subject": "Checking in with warmth — Arjun’s enrollment folder",
+      "body": "Dear Maya and Dev,\n\nIt was such a joy watching Arjun examine our classroom ferns on Thursday! Whenever you have a quiet moment this week, feel free to drop his immunization card into your shared Love School Drive folder—no rush at all, and please reply if I can help with anything.\n\nWarmly,\nClara Vance\nDirector, Love School",
+      "triggerSource": "Drive Packet Reminder (Human Review)",
+      "toneTag": "Post-Tour Warmth",
+      "status": "Pending Review",
+      "createdAt": "Nov 16, 10:05 AM"
+    },
+    {
+      "id": "ed-2",
+      "familyId": "fam-3",
+      "recipientName": "Nadia Okafor",
+      "recipientEmail": "nadia.okafor@example.org",
+      "subject": "A quick note on Zion’s November tuition & studio welcome",
+      "body": "Hi Nadia,\n\nWe are so excited to have Zion joining Upper Studio Makers! Our QuickBooks system noted that invoice #INV-2026-105 is approaching its due date. Please let me know if you’d like to adjust the billing schedule or split payments—we are always happy to make things easy for your family.\n\nWith gratitude,\nClara Vance\nLove School",
+      "triggerSource": "QuickBooks Gentle Check-In",
+      "toneTag": "Supportive Billing",
+      "status": "Pending Review",
+      "createdAt": "Nov 16, 9:40 AM"
+    },
+    {
+      "id": "ed-3",
+      "familyId": "fam-1",
+      "recipientName": "Elena & Mateo Morales",
+      "recipientEmail": "elena.morales@example.org",
+      "subject": "Welcome to Lower Elementary Explorers, Lucia!",
+      "body": "Dear Elena and Mateo,\n\nLucia’s Google Classroom seat and family guardian link are all ready for Monday morning! We cannot wait to welcome her to our morning circle.\n\nWarmly,\nClara Vance",
+      "triggerSource": "QuickBooks Paid -> Classroom Sync",
+      "toneTag": "Enrollment Milestone",
+      "status": "Approved & Sent",
+      "createdAt": "Nov 13, 2:15 PM",
+      "sentAt": "Nov 13, 2:30 PM"
+    }
+  ],
+  "classroomCohorts": [
+    {
+      "id": "cc-1",
+      "name": "Early Childhood Wonder (Ages 3.5–5)",
+      "ageGroup": "Ages 3.5–5",
+      "leadEducator": "Hannah Brooks",
+      "enrolledCount": 14,
+      "capacity": 16,
+      "guardianLinkRate": "100% Guardians Linked",
+      "nextGathering": "Thu, Nov 19 · Seasonal Soup & Story Morning",
+      "recentAnnouncement": "This week we are pressing autumn leaves and listening to woodland folktales by the window."
+    },
+    {
+      "id": "cc-2",
+      "name": "Lower Elementary Explorers (Ages 6–7)",
+      "ageGroup": "Ages 6–7",
+      "leadEducator": "Clara Vance",
+      "enrolledCount": 16,
+      "capacity": 18,
+      "guardianLinkRate": "94% Guardians Linked",
+      "nextGathering": "Fri, Nov 20 · Botanical Sketchbook Sharing",
+      "recentAnnouncement": "Families are invited at 11:15 AM Friday to admire the children’s watercolor leaf journals."
+    },
+    {
+      "id": "cc-3",
+      "name": "Upper Studio Makers (Ages 8–10)",
+      "ageGroup": "Ages 8–10",
+      "leadEducator": "David Thorne",
+      "enrolledCount": 12,
+      "capacity": 15,
+      "guardianLinkRate": "100% Guardians Linked",
+      "nextGathering": "Wed, Nov 18 · Bridge Architecture Showcase",
+      "recentAnnouncement": "Remember to bring any recycled cardboard or twine you collected at home for bridge testing!"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "inv-1",
+      "invoiceNumber": "INV-2026-102",
+      "familyId": "fam-1",
+      "familyName": "Morales Family",
+      "parentEmail": "elena.morales@example.org",
+      "program": "Lower Elementary Explorers",
+      "billingPeriod": "November 2026",
+      "amountCents": 145000,
+      "dueDate": "Nov 10, 2026",
+      "status": "Paid",
+      "paidAt": "Nov 13, 2026"
+    },
+    {
+      "id": "inv-2",
+      "invoiceNumber": "INV-2026-103",
+      "familyId": "fam-5",
+      "familyName": "Alvarez-Kim Family",
+      "parentEmail": "sofia.alvarez@example.org",
+      "program": "Lower Elementary Explorers",
+      "billingPeriod": "November 2026",
+      "amountCents": 145000,
+      "dueDate": "Nov 10, 2026",
+      "status": "Paid",
+      "paidAt": "Nov 09, 2026"
+    },
+    {
+      "id": "inv-3",
+      "invoiceNumber": "INV-2026-104",
+      "familyId": "fam-2",
+      "familyName": "Chen-Patel Family",
+      "parentEmail": "maya.chen@example.org",
+      "program": "Early Childhood Wonder",
+      "billingPeriod": "Enrollment Deposit + Nov",
+      "amountCents": 128000,
+      "dueDate": "Nov 22, 2026",
+      "status": "Sent"
+    },
+    {
+      "id": "inv-4",
+      "invoiceNumber": "INV-2026-105",
+      "familyId": "fam-3",
+      "familyName": "Okafor Family",
+      "parentEmail": "nadia.okafor@example.org",
+      "program": "Upper Studio Makers",
+      "billingPeriod": "November 2026",
+      "amountCents": 152000,
+      "dueDate": "Nov 14, 2026",
+      "status": "Needs Gentle Follow-up",
+      "gentleNoteSent": false
+    }
+  ],
+  "notionUnits": [
+    {
+      "id": "nu-1",
+      "title": "Autumn Botany & Watercolor Field Journals",
+      "cohort": "Lower Elementary Explorers",
+      "seasonWeek": "Autumn · Week 11",
+      "themeSummary": "Children collect fallen maple, oak, and birch leaves, observe venation under brass loupes, and paint slow observational studies.",
+      "familyPrompt": "On a walk this weekend, ask your child to pick one fallen leaf and notice three tiny details you might otherwise walk past.",
+      "teacherPrep": "Fresh cold-press watercolor blocks, brass magnifying glasses, linen table cloths.",
+      "status": "Active Week",
+      "sharedWithFamilies": true,
+      "lastEditedAt": "Nov 16, 8:45 AM"
+    },
+    {
+      "id": "nu-2",
+      "title": "Woodland Folktales & Cozy Reading Circle",
+      "cohort": "Early Childhood Wonder",
+      "seasonWeek": "Autumn · Week 11",
+      "themeSummary": "Oral storytelling with felt woodland figures, rhyming rhythm games, and unhurried picture book exploration by the sunlit window.",
+      "familyPrompt": "Share a story from your own childhood before bedtime this week—children love hearing your voice without a book in hand.",
+      "teacherPrep": "Display \"The Wild Garden\" and \"Luna & The Owl\" in the low birch reading nook.",
+      "status": "Ready to Share",
+      "sharedWithFamilies": false,
+      "lastEditedAt": "Nov 15, 5:20 PM"
+    },
+    {
+      "id": "nu-3",
+      "title": "Tension, Span & Community Bridges",
+      "cohort": "Upper Studio Makers",
+      "seasonWeek": "Autumn · Week 12",
+      "themeSummary": "Hands-on engineering studio investigating truss geometry, weight distribution, and how bridges connect neighborhoods.",
+      "familyPrompt": "Notice a local pedestrian bridge or archway together and sketch its shapes.",
+      "teacherPrep": "Corrugated kraft board, jute twine, brass weights for load testing.",
+      "status": "In Planning",
+      "sharedWithFamilies": false,
+      "lastEditedAt": "Nov 14, 2:00 PM"
+    }
+  ],
+  "socialPosts": [
+    {
+      "id": "sp-1",
+      "platform": "Both",
+      "title": "Slow Mornings at the Botany Table",
+      "caption": "Before rushing into answers, we give children time to look closely. This week in Lower Elementary Explorers, fallen oak and maple leaves became our quiet teachers—paired with watercolor sketchbooks and brass magnifying glasses. #LoveSchool #RelationshipCenteredLearning",
+      "imageUrl": "/src/assets/images/curriculum_botany_table_1794869225319.jpg",
+      "scheduledFor": "Nov 17, 2026 · 9:30 AM",
+      "status": "Needs Review",
+      "relatedUnit": "Autumn Botany & Watercolor Field Journals"
+    },
+    {
+      "id": "sp-2",
+      "platform": "Instagram",
+      "title": "By the Sunlit Reading Window",
+      "caption": "A corner built for wonder, wool rugs, and unhurried stories. Spring & Fall family tours are open at loveschoolu.com—come sit in the morning light with us.",
+      "imageUrl": "/src/assets/images/social_reading_circle_1794869225385.jpg",
+      "scheduledFor": "Nov 19, 2026 · 4:00 PM",
+      "status": "Scheduled",
+      "relatedUnit": "Woodland Folktales & Cozy Reading Circle"
+    },
+    {
+      "id": "sp-3",
+      "platform": "Facebook",
+      "title": "Open Studio Morning — Meet Our Guides",
+      "caption": "Looking for a school where your child is truly known? Book a 45-minute Campus Visit through loveschoolu.com and share a cup of tea in our studio.",
+      "imageUrl": "/src/assets/images/school_studio_hero_1794869225291.jpg",
+      "scheduledFor": "Nov 12, 2026 · 10:00 AM",
+      "status": "Published"
+    }
+  ],
+  "automations": [
+    {
+      "id": "auto-1",
+      "name": "Wix Inquiry -> Personal Welcome Draft",
+      "triggerTool": "Wix",
+      "triggerEvent": "New inquiry submitted on loveschoolu.com",
+      "actionSummary": "Creates a Family Journey card, prepares a personalized welcome email mentioning their child by name, and includes your Calendly discovery link.",
+      "targetTools": [
+        "Gmail",
+        "Calendly"
+      ],
+      "mode": "Human Review Queue",
+      "enabled": true,
+      "runsCount": 28,
+      "lastRunAt": "Today, 11:42 AM"
+    },
+    {
+      "id": "auto-2",
+      "name": "Calendly Tour Completed -> Drive Enrollment Folder",
+      "triggerTool": "Calendly",
+      "triggerEvent": "Campus Visit marked completed",
+      "actionSummary": "Creates the family’s enrollment folder in Google Drive and queues a warm post-visit thank-you note reflecting on their tour.",
+      "targetTools": [
+        "Google Drive",
+        "Gmail"
+      ],
+      "mode": "Human Review Queue",
+      "enabled": true,
+      "runsCount": 19,
+      "lastRunAt": "Yesterday, 4:40 PM"
+    },
+    {
+      "id": "auto-3",
+      "name": "QuickBooks Paid -> Classroom Seat & Welcome Guide",
+      "triggerTool": "QuickBooks",
+      "triggerEvent": "Tuition invoice marked Paid",
+      "actionSummary": "Prepares Google Classroom roster placement & guardian invite and queues a warm orientation email.",
+      "targetTools": [
+        "Google Classroom",
+        "Gmail"
+      ],
+      "mode": "Human Review Queue",
+      "enabled": true,
+      "runsCount": 14,
+      "lastRunAt": "Nov 13, 2:15 PM"
+    },
+    {
+      "id": "auto-4",
+      "name": "Notion Weekly Guide -> Classroom, Email & Social",
+      "triggerTool": "Notion",
+      "triggerEvent": "Curriculum unit marked Ready to Share",
+      "actionSummary": "Generates a family weekend reflection email draft, a Google Classroom announcement draft, and an Instagram/Facebook storytelling post.",
+      "targetTools": [
+        "Google Classroom",
+        "Gmail",
+        "Instagram"
+      ],
+      "mode": "Human Review Queue",
+      "enabled": true,
+      "runsCount": 11,
+      "lastRunAt": "Nov 15, 5:25 PM"
+    }
+  ],
+  "integrations": [
+    {
+      "id": "int-wix",
+      "name": "Wix Website",
+      "category": "loveschoolu.com CMS & Leads",
+      "status": "Connected",
+      "accountLabel": "loveschoolu.com (Live Webhook)",
+      "endpointHint": "/api/webhooks/wix",
+      "lastSyncAt": "Today, 11:42 AM",
+      "configFields": {
+        "siteDomain": "loveschoolu.com",
+        "siteId": "wix-ls-2026-main"
+      }
+    },
+    {
+      "id": "int-calendly",
+      "name": "Calendly",
+      "category": "Tours & Heart-to-Hearts",
+      "status": "Connected",
+      "accountLabel": "calendly.com/loveschoolu",
+      "endpointHint": "/api/webhooks/calendly",
+      "lastSyncAt": "Today, 8:05 AM",
+      "configFields": {
+        "organizationUri": "calendly.com/loveschoolu",
+        "hostEmail": "clara@loveschoolu.com"
+      }
+    },
+    {
+      "id": "int-gmail",
+      "name": "Gmail",
+      "category": "Personal Family Email",
+      "status": "Needs Sign-In",
+      "accountLabel": "Connect Google Workspace to sync live inbox",
+      "endpointHint": "gmail.googleapis.com",
+      "lastSyncAt": "Ready for Google Sign-In",
+      "configFields": {}
+    },
+    {
+      "id": "int-drive",
+      "name": "Google Drive",
+      "category": "Enrollment Packets & Docs",
+      "status": "Needs Sign-In",
+      "accountLabel": "Connect Google Workspace to browse & create folders",
+      "endpointHint": "drive.googleapis.com",
+      "lastSyncAt": "Ready for Google Sign-In",
+      "configFields": {}
+    },
+    {
+      "id": "int-classroom",
+      "name": "Google Classroom",
+      "category": "Cohorts, Rosters & Announcements",
+      "status": "Needs Sign-In",
+      "accountLabel": "Connect Google Workspace to manage courses",
+      "endpointHint": "classroom.googleapis.com",
+      "lastSyncAt": "Ready for Google Sign-In",
+      "configFields": {}
+    },
+    {
+      "id": "int-quickbooks",
+      "name": "QuickBooks Online",
+      "category": "Tuition Invoicing & Payments",
+      "status": "Connected",
+      "accountLabel": "Love School LLC · Realm #9130-4482",
+      "endpointHint": "/api/webhooks/quickbooks",
+      "lastSyncAt": "Today, 9:40 AM",
+      "configFields": {
+        "realmId": "9130-4482-8810",
+        "environment": "Production"
+      }
+    },
+    {
+      "id": "int-notion",
+      "name": "Notion",
+      "category": "Curriculum & Family Guides",
+      "status": "Connected",
+      "accountLabel": "Love School Living Curriculum DB",
+      "endpointHint": "api.notion.com/v1/databases",
+      "lastSyncAt": "Today, 8:45 AM",
+      "configFields": {
+        "databaseId": "notion-db-curriculum-2026",
+        "workspaceName": "Love School Studio"
+      }
+    },
+    {
+      "id": "int-meta",
+      "name": "Facebook & Instagram",
+      "category": "Community Storytelling",
+      "status": "Connected",
+      "accountLabel": "@loveschoolu · Meta Business Suite",
+      "endpointHint": "graph.facebook.com/v20.0",
+      "lastSyncAt": "Yesterday, 4:00 PM",
+      "configFields": {
+        "instagramHandle": "@loveschoolu",
+        "facebookPage": "Love School Community"
+      }
+    }
+  ],
+  "activityLog": [
+    {
+      "id": "act-1",
+      "timestamp": "11:42 AM",
+      "tool": "Wix",
+      "description": "New family inquiry received from Rachel & Thomas Bennett via loveschoolu.com",
+      "familyName": "Bennett Family"
+    },
+    {
+      "id": "act-2",
+      "timestamp": "10:05 AM",
+      "tool": "Drive",
+      "description": "Queued gentle reminder draft for Arjun Patel’s health form",
+      "familyName": "Chen-Patel Family"
+    },
+    {
+      "id": "act-3",
+      "timestamp": "9:40 AM",
+      "tool": "QuickBooks",
+      "description": "Queued supportive tuition check-in draft for INV-2026-105",
+      "familyName": "Okafor Family"
+    },
+    {
+      "id": "act-4",
+      "timestamp": "8:45 AM",
+      "tool": "Notion",
+      "description": "Updated Autumn Botany & Watercolor Field Journals prompt",
+      "familyName": "All Families"
+    },
+    {
+      "id": "act-5",
+      "timestamp": "8:05 AM",
+      "tool": "Calendly",
+      "description": "Freja Lindqvist booked Campus Visit for Nov 18 at 10:00 AM",
+      "familyName": "Lindqvist Family"
+    }
+  ]
+}
